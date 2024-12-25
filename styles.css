@@ -1,0 +1,53 @@
+div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.task1 #text {
+  font-size: 36px;
+}
+
+.task1 #button {
+  height: 40px;
+  width: 120px;
+  background-color: yellow;
+  border-radius: 15px;
+  margin-top: 10px;
+}
+
+.task2 .title {
+  font-size: 36px;
+}
+
+.task2 .image {
+    border-radius: 40px;
+    border: solid black;
+}
+
+.task3 .image2 {
+    border-radius: 40px;
+    border: solid black;
+}
+
+.task3 .link {
+  font-size: 36px;
+}
+
+.task4 .text {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.task4 .list {
+    list-style:circle ;
+    margin-right: 80px;
+}
+
+.task4 .food {
+    margin-top: 5px;
+  /* font-size: 24px; */
+}
